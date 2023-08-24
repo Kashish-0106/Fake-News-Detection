@@ -4,7 +4,8 @@ Unveiling deception through data analytics and Python, this project combats fake
 
 Steps:
 
-Imports: Include required modules.
+Imports: Include required modules.  
+
 Data Load: Import "content/train.csv" to a DataFrame and note its shape.
 Label Extraction: Capture FAKE/REAL labels.
 Data Split: Segregate data into training and testing sets.
