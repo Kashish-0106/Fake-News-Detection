@@ -1,4 +1,4 @@
-#Python-Powered Fake News Detection Using Data Analytics
+# Python-Powered Fake News Detection Using Data Analytics
 
 Unveiling deception through data analytics and Python, this project combats fake news. The dataset, "news.csv," stands at 7796x4, with columns for news identification, title, text, and FAKE/REAL labels.
 
