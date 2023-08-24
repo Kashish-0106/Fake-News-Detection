@@ -6,12 +6,18 @@ Steps:
 
 Imports: Include required modules.  
 
-Data Load: Import "content/train.csv" to a DataFrame and note its shape.
-Label Extraction: Capture FAKE/REAL labels.
-Data Split: Segregate data into training and testing sets.
-Feature Setup: Employ TfidfVectorizer with English stop words.
-Classifier Initialization: Set up PassiveAggressiveClassifier.
-Model Assessment: Evaluate via confusion matrix for insights into true/false positives/negatives.
-Accuracy: Attain 97.82% accuracy on project conclusion.
+Data Load: Import "content/train.csv" to a DataFrame and note its shape.  
+
+Label Extraction: Capture FAKE/REAL labels.  
+
+Data Split: Segregate data into training and testing sets.  
+
+Feature Setup: Employ TfidfVectorizer with English stop words.  
+
+Classifier Initialization: Set up PassiveAggressiveClassifier.  
+
+Model Assessment: Evaluate via confusion matrix for insights into true/false positives/negatives.  
+
+Accuracy: Attain 97.82% accuracy on project conclusion.  
 
 Modules: Python3, NumPy, pandas, sklearn
